@@ -4,6 +4,7 @@ class Counter implements Runnable {
 	private int currentValue;
 	public Counter() { currentValue = 0; }
 	public int getValue() { return currentValue; }
+	
 	public void run() { // (1) Thread entry point
 		try {
 			while (currentValue < 5) {
@@ -18,4 +19,6 @@ class Counter implements Runnable {
 		}
 		System.out.println("Exit from thread: " + Thread.currentThread().getName());
 	}
+	
+	
 }
