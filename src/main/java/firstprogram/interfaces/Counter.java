@@ -1,8 +1,14 @@
 package firstprogram.interfaces;
 
 class Counter implements Runnable {
+	
+	// VARIABILI DI ISTANZA
 	private int currentValue;
+	
+	// COSTRUTTORE
 	public Counter() { currentValue = 0; }
+	
+	// METODI PUBBLICI - API
 	public int getValue() { return currentValue; }
 	
 	public void run() { // (1) Thread entry point
