@@ -13,4 +13,6 @@ Prima parte del programma, introduzione alla programmazione in java.
  
 ## Resources  
  [Esercizi](esercizi.md)  
- [Concetti](concetti.md)
+ [Concetti](concetti.md)  
+ [Ingegneria del software](http://sweng.web.cs.unibo.it/?page_id=856)  
+ 
