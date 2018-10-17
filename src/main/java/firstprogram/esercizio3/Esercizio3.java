@@ -1,12 +1,10 @@
 package firstprogram.esercizio3;
-
 import java.io.File;
-import java.nio.file.Paths;
 import java.util.LinkedList;
 
 public class Esercizio3 {
-
 	public static void main(String[] args) {
+		
 		LinkedList<File> stack = new LinkedList<File>();
 		
 		int nDir = 0;
@@ -30,5 +28,4 @@ public class Esercizio3 {
 		
 		System.out.println(nDir + " " + nFil);
 	}
-
 }
