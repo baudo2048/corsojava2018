@@ -1,5 +1,5 @@
 package firstprogram.interfaces;
 
 public interface Listener {
-	public void getQualcosa();
+	public void getQualcosa() throws Exception;
 }
