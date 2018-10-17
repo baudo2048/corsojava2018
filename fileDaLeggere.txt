@@ -1,0 +1,6 @@
+ciao
+sono
+un
+
+file
+txt

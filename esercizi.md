@@ -10,3 +10,7 @@ La seconda classe rapprensenta un client che stampa un messaggio a video ogni x 
 Scrivere un programma che prende in input una stringa e restituisce true
 or false a seconda che abbia in equal misura parentesi tonde aperte e 
 chiuse.
+
+## Esercizio 3
+Scrivere un programma che prende in input una directory e conta il numero di
+files e directory nella cartella selezionata e in tutte le sottocartelle.

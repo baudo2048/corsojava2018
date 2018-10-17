@@ -9,6 +9,7 @@ public class Esercizio2 {
 		int counter=0;
 		
 		System.out.print("Inserisci una stringa: ");
+		
 		Scanner tastiera = new Scanner(System.in);
 		String s = tastiera.nextLine();
 		tastiera.close();
