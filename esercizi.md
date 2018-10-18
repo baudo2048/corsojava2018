@@ -16,4 +16,4 @@ Scrivere un programma che prende in input una directory e conta il numero di
 files e directory nella cartella selezionata e in tutte le sottocartelle.
 
 ## Esercizio 4
-Svolgere l'esercizio 2 dal seguente file: [testo](eserciziVari.pdf)
+Svolgere l'esercizio 2 dal seguente file: [testo](./esercizi/eserciziVari.pdf)
