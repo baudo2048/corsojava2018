@@ -1,4 +1,4 @@
-package firstprogram.esercizio2;
+package firstprogram.esercizi.esercizio2;
 
 import org.apache.commons.lang3.StringUtils;
 

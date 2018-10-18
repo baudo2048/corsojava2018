@@ -1,4 +1,4 @@
-package firstprogram.esercizio1;
+package firstprogram.esercizi.esercizio1;
 
 public class Client implements Listener {
 	private String msg = new String("Messaggio di default");

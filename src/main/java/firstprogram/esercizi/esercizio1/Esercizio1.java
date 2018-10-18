@@ -1,4 +1,4 @@
-package firstprogram.esercizio1;
+package firstprogram.esercizi.esercizio1;
 
 public class Esercizio1 {
 

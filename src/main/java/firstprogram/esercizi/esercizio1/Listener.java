@@ -1,4 +1,4 @@
-package firstprogram.esercizio1;
+package firstprogram.esercizi.esercizio1;
 
 public interface Listener {
 	public void notifica(int delay);

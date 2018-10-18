@@ -1,4 +1,4 @@
-package firstprogram.esercizio3;
+package firstprogram.esercizi.esercizio3;
 import java.io.File;
 import java.util.LinkedList;
 

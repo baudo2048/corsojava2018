@@ -1,5 +1,8 @@
 package firstprogram;
 
+import org.apache.pdfbox.pdmodel.PDDocument;
+import org.apache.pdfbox.pdmodel.PDPage;
+
 import firstprogram.math.Polygon;
 import firstprogram.math.Rectangle;
 import firstprogram.math.Square;
@@ -30,6 +33,13 @@ public class Hello {
 		tp1.esegui();
 		
 	
+	}
+	
+	private void samplePdf() {
+		PDDocument doc = new PDDocument();
+		
+		PDPage page = new PDPage();
+
 	}
 
 }
