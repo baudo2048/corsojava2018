@@ -15,5 +15,7 @@ Prima parte del programma, introduzione alla programmazione in java.
 ## Resources  
  [Esercizi](esercizi.md)  
  [Concetti](concetti.md)  
- [Ingegneria del software](http://sweng.web.cs.unibo.it/?page_id=856)  
+ [Ingegneria del software](http://sweng.web.cs.unibo.it/?page_id=856) 
+ [Algoritmi e strutture dati](http://www.cs.unibo.it/~donat/alg.html) 
+ [Composition vs Aggregation](https://stackoverflow.com/questions/1644273/what-is-the-difference-between-aggregation-composition-and-dependency)
  
