@@ -20,3 +20,9 @@ Svolgere l'esercizio 2 dal seguente file: [testo](./esercizi/eserciziVari.pdf)
 
 ## Esercizio 5
 Vedi allegato: [esercizio5](./esercizi/JavaTechnicalTest.pdf)
+
+## Esercizio 6
+Scrivere un programma che prende in input un file excel contenente
+un foglio che contiene un elenco di attori (nome, cognome) e salvare 
+su database.
+
