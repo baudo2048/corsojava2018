@@ -16,7 +16,8 @@ Prima parte del programma, introduzione alla programmazione in java.
  [Esercizi](esercizi.md)  
  [Concetti](concetti.md)  
  [Ingegneria del software](http://sweng.web.cs.unibo.it/?page_id=856)   
- [Algoritmi e strutture dati](http://www.cs.unibo.it/~donat/alg.html)   
+ [Algoritmi e strutture dati](http://www.cs.unibo.it/~donat/alg.html)  
+ [Tutorials vari](http://www.vogella.com/tutorials/)   
 
  
  

@@ -13,4 +13,7 @@
  - Design pattern
  - Template method design patter
  - Observer design patter
+ - OOP principles (abstraction, inheritance, polymorfism)  
+ - Ambiente di sviluppo (aka IDE)  
+ - static vs non-static methods  
  - 
