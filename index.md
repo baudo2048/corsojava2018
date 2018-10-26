@@ -7,6 +7,9 @@ Prima parte del programma, introduzione alla programmazione in java.
 
 ## Software engineering
 ![alt text](illusion.jpg "Illusion")
+
+## Java SE Technologies
+![javaTech](jse.jpg "Java SE Technologies")
  
 ## Libri
  1 [Absolute Java](https://drive.google.com/open?id=0B4b1SH9ZbeKnRFhhQVpnejRXS2s)  

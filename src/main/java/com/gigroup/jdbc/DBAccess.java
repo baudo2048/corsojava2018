@@ -13,7 +13,7 @@ public class DBAccess implements DAOConstants {
 	public static Connection getConnection() throws ClassNotFoundException, SQLException{
 		Class.forName(JDBC_DRIVER);
 		conn = DriverManager.getConnection(JDBC_URL, USERNAME, PASSWORD);
-		conn.setAutoCommit(false);
+		conn.setAutoCommit(false);		
 		return conn;	
 	}
 	
