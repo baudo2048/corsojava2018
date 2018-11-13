@@ -26,3 +26,5 @@ Scrivere un programma che prende in input un file excel contenente
 un foglio che contiene un elenco di attori (nome, cognome) e salvare 
 su database.
 
+## Esercizio 7
+![alt text](esercizio.png "Esercizio")
