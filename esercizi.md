@@ -27,4 +27,6 @@ un foglio che contiene un elenco di attori (nome, cognome) e salvare
 su database.
 
 ## Esercizio 7
+Implementare la seguente architettura:
+
 ![alt text](esercizio.png "Esercizio")
